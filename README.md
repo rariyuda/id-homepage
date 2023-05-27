@@ -1,6 +1,6 @@
-# my_new_amazing_app
+# id-homepage
 
-A new Flutter project.
+I embarked on my Flutter journey by creating the ID Card homepage, a small but significant step towards mastering this powerful UI toolkit.
 
 ## Getting Started
 
